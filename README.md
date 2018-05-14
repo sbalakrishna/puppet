@@ -1,1 +1,1 @@
-Watch this space... coming soon
+Learning Puppet and Git
